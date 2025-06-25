@@ -14,7 +14,7 @@ interface ColorOption {
 }
 
 const colorOptions: readonly ColorOption[] = [
-  { name: 'Onyx Black', hex: '#1a1a1a' },
+  { name: 'Onyx Black', hex: '#333333' },
   { name: 'Pearl White', hex: '#f0f0f0' },
   { name: 'Cobalt Blue', hex: '#0047ab' },
 ] as const;
